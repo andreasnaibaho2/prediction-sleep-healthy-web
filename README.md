@@ -126,11 +126,6 @@ docker run -d -p 8000:8000 --name project-ml-backend project-ml-backend
 
 Backend accessible at: `http://localhost:8000`
 
----
-
-## Project Status
-
-✅ Completed — may receive new updates and improvements.
 
 ---
 
